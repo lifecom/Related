@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+        <name>
+                <lang name="default">Related</lang>
+                <lang name="russian">Related</lang>
+        </name>
+        <author>
+                <lang name="default">Chiliec</lang>
+                <lang name="russian">Chiliec</lang>
+        </author>
+        <homepage>http://chiliec.ru</homepage>
+        <version>1.0.0</version>
+        <requires>
+                <livestreet>0.5.1</livestreet>
+                <plugins>
+					
+                </plugins>
+        </requires>
+        <description>
+                <lang name="default">Plugin to display a list of related topics</lang>
+                <lang name="russian">Плагин для отображения похожих записей</lang>
+        </description>
+		
+</plugin>
